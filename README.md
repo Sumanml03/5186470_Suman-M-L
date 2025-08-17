@@ -21,10 +21,10 @@ You’ll find **certificates, exercises, and practical implementations** that hi
 
 <div style="width:100%; background-color:#1e1e1e; padding:10px; text-align:center; border-radius:10px;">
 
-<a href="#sdlc--agile-completion" style="color:white; text-decoration:none; margin: 0 18px; font-weight:bold; font-size:17px;">📘 SDLC</a>  
-<a href="#git-training-completion" style="color:white; text-decoration:none; margin: 0 18px; font-weight:bold; font-size:17px;">🌱 Git</a>  
-<a href="#linux-commands" style="color:white; text-decoration:none; margin: 0 18px; font-weight:bold; font-size:17px;">🐧 Linux</a>  
-<a href="#c-programming-completion" style="color:white; text-decoration:none; margin: 0 18px; font-weight:bold; font-size:17px;">⚡ C Programming</a>  
+<a href="#️-sdlc--agile-completion" style="color:white; text-decoration:none; margin: 0 18px; font-weight:bold; font-size:17px;">📘 SDLC</a>  
+<a href="#️-git-training-completion" style="color:white; text-decoration:none; margin: 0 18px; font-weight:bold; font-size:17px;">🌱 Git</a>  
+<a href="#️-linux-commands" style="color:white; text-decoration:none; margin: 0 18px; font-weight:bold; font-size:17px;">🐧 Linux</a>  
+<a href="#️-c-programming-completion" style="color:white; text-decoration:none; margin: 0 18px; font-weight:bold; font-size:17px;">⚡ C Programming</a>  
 
 </div>  
 
@@ -32,7 +32,7 @@ You’ll find **certificates, exercises, and practical implementations** that hi
 
 ## 🏆 Certificates & Work  
 
-### ✔️ SDLC & Agile Completion  
+### ✔️ SDLC & Agile Completion
 Certificate earned for **Agile methodology**, covering Scrum framework, iterative development, and SDLC phases.  
 
 <div style="text-align: center;">
@@ -45,7 +45,7 @@ Certificate earned for **Agile methodology**, covering Scrum framework, iterativ
 
 ---
 
-### ✔️ Git Training Completion  
+### ✔️ Git Training Completion
 Successfully completed **Git & Version Control training**, including branching, merging, and remote repository management.  
 
 <div style="text-align: center;">
@@ -54,7 +54,7 @@ Successfully completed **Git & Version Control training**, including branching, 
 
 ---
 
-### ✔️ Linux Commands  
+### ✔️ Linux Commands
 Hands-on practice with **Linux command-line utilities** for file handling, process management, and permissions.  
 
 <div style="text-align: center;">
@@ -75,7 +75,7 @@ Hands-on practice with **Linux command-line utilities** for file handling, proce
 
 ---
 
-### ✔️ C Programming Completion  
+### ✔️ C Programming Completion
 Covered **fundamentals and intermediate concepts** of C programming, including data structures, pointers, and problem-solving.  
 
 <div style="text-align: center;">
